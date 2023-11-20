@@ -1,0 +1,14 @@
+@import url("https://fonts.cdnfonts.com/css/sf-pro-display");
+
+* {
+  font-family: "SF Pro Display", sans-serif;
+}
+
+.App {
+  max-width: 550px;
+  margin: auto;
+}
+
+p {
+  margin: 0px;
+}

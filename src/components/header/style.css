@@ -1,0 +1,30 @@
+.header {
+  background-color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 40px;
+}
+
+.header .logo {
+  display: flex;
+  gap: 10px;
+}
+
+.header .logo p {
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+  padding: 10px;
+  border-left: 1px solid #f6c547;
+
+}
+
+.header button {
+  background-color: #f6c547;
+  border: none;
+  outline: none;
+  border-radius: 9px;
+  padding: 10px;
+  font-weight: bold;
+}

@@ -1,0 +1,132 @@
+.profile .profile-info-container {
+  transform: translateY(-30px);
+}
+
+.profile .outer-container {
+  padding-left: 50px;
+}
+
+.profile .cover-img img {
+  width: 100%;
+}
+
+.profile .profile-info-container {
+  display: flex;
+  align-items: flex-end;
+  gap: 20px;
+}
+
+.profile .profile-info-container .achievementIcons{
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.profile .profile-info-container img {
+  width: 140px;
+}
+
+.profile .icons-container {
+  display: flex;
+  gap: 20px;
+}
+
+.profile .icons-container p {
+    color: #595859;
+  }
+
+.profile .icons {
+  display: flex;
+  gap: 10px;
+}
+
+.profile .icons img {
+  width: 15px;
+}
+
+.profile .btns-container p {
+  font-size: 20px;
+  color: #aeaeae;
+  font-weight: bold;
+  
+}
+
+.profile .profile-info-container img {
+  border-radius: 50%;
+}
+
+.profile .profile-info-container .profile-name p {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.profile .profile-info-container .profile-name {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+}
+
+.profile .profile-info-container .profile-name img {
+  width: 15px;
+}
+
+.profile .profile-info-container .profile-img {
+  border: 2px solid #8d8c8a;
+}
+
+.profile .btns-container {
+  display: flex;
+  gap: 10px;
+}
+
+.profile .description {
+  display: flex;
+  flex-direction: column;
+  gap: 10px; 
+  padding-bottom: 40px ;
+}
+
+.profile .description .text {
+    color: #595859;
+}
+
+.profile .description a {
+  color: #3dafcc;
+    
+  }
+
+.profile .description .text,
+.profile .description a {
+  font-size: 20px;
+  
+}
+
+.profile .profile-details-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.profile .btn {
+  border: 2px solid #c2c2c2;
+  padding: 5px 10px;
+  border-radius: 12px;
+  width: 40px;
+}
+
+.profile button {
+ padding: 10px;
+ border: none;
+ background-color: transparent;
+ border-top: 2px solid #f9f9f9;
+ border-left: 2px solid #f9f9f9;
+ border-right : 2px solid #f9f9f9;
+ border-bottom : 2px solid white;
+ transform: translateY(2px);
+}
+.ombtn {
+  color: #3dafcc;
+}
